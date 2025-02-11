@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason Li</h1>
 <h3 align="center">A Computer Science and Computer Engineering student at Case Western Reserve University</h3>
 
-- 🔭 I’m currently working on **Multi-modal KV cache compression research**
+- 🔭 I’m currently working on **Multi-modal KV cache compression research**, **AI-driven chatbot development**
 
 - 🌱 I’m currently learning **Advanced AI techniques for NLP and computer vision**
 
