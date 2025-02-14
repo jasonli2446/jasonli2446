@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced AI techniques for NLP and computer vision**
 
-- 📫 How to reach me **jasonli2446@gmail.com**
+- 📫 How to reach me: **jasonli2446@gmail.com**
 
 <p align="left">
 </p>
