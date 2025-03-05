@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jason Li</h1>
 <h3 align="center">A Computer Science and Computer Engineering student at Case Western Reserve University</h3>
 
-- 🔭 I’m currently working on **Multi-modal KV cache compression research**, **AI-driven chatbot development**, **Nutrition App Development at Case Western**
+- 🔭 I’m currently working on **Multi-modal KV cache compression research**, **AI-driven chatbot development**, **Nutrition App Development at Case Western**, **JavaScript turret game**
 
-- 🌱 I’m currently learning **Advanced AI techniques for NLP and computer vision**
+- 🌱 I’m currently learning **Advanced ML cache compression techniques for inference and Computer Architecture**
 
 - 📫 How to reach me: **jasonli2446@gmail.com**
 
