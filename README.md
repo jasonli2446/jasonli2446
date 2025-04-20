@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced ML KV cache compression techniques for inference, Unity, and Computer Architecture**
 
-- 📫 How to reach me: **jasonli2446@gmail.com**, **linkedin.com/in/jasonli2446/**
+- 📫 How to reach me: **jasonli2446@gmail.com**, **[Linkedin](https://www.linkedin.com/in/jasonli2446/)**
 
 <p align="left">
 </p>
