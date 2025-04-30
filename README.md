@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **KV cache compression research**, **AI-driven chatbot development**, **Nutrition App Development at Case Western**
 
-- 🌱 I’m currently learning **Advanced ML KV cache compression techniques for inference, Unity, and Computer Architecture**
+- 🌱 I’m currently learning **Advanced ML KV cache compression techniques for inference**
 
 - 📫 How to reach me: **jasonli2446@gmail.com**, **[Linkedin](https://www.linkedin.com/in/jasonli2446/)**
 
