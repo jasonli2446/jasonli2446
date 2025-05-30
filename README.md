@@ -23,6 +23,6 @@
 
 ![snake gif](https://github.com/jasonli2446/jasonli2446/blob/output/github-snake.svg)
 
-<p align="center" gap="32px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonli2446&show_icons=true&locale=en&layout=compact" alt="jasonli2446" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonli2446&" alt="jasonli2446" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonli2446&show_icons=true&locale=en&layout=compact" alt="jasonli2446" style="margin-right: 20px;" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonli2446&" alt="jasonli2446" />
 </p>
