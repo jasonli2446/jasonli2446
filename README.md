@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **Advanced ML KV cache compression techniques for inference**
 
-- 👨‍💻 All of my projects are available at [https://jasonli2446.github.io/portfolio/](https://jasonli2446.github.io/portfolio/)
+- 👨‍💻 Some of my projects are available at [https://jasonli2446.github.io/portfolio/](https://jasonli2446.github.io/portfolio/)
 
 - 📫 How to reach me **jasonli2446@gmail.com**, **[Linkedin](https://www.linkedin.com/in/jasonli2446/)**
 
